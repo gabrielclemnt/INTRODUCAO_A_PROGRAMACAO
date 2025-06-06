@@ -18,8 +18,5 @@ Estruturas (struct)
 
 Manipulação de arquivos (fopen, fread, fwrite, etc.)
 
-📁 Organização:
-O repositório está organizado por listas e práticas numeradas, cada uma em seu respectivo diretório, contendo os códigos-fonte .c e, quando necessário, arquivos de apoio ou exemplos de entrada/saída.
-
 🎯 Objetivo:
 Servir como base de estudo e revisão dos conteúdos aprendidos na disciplina, bem como acompanhar a evolução prática da programação em C.
